@@ -16,7 +16,7 @@ And here is my windows desktop:
 
 And here is my keyboard, my most used tool:
 
-![iris keyboard](https://user-images.githubusercontent.com/67878058/134280983-47b0d5f2-85e2-4242-b2fb-e646e2c3bbcd.jpg)
+![iris keyboard](https://user-images.githubusercontent.com/67878058/134283851-9a972128-a0be-46ce-b811-38752611d7e5.jpg)
 
 And here is my keyboard layout, composed of 2 layers, the MOD1 key to the right of my right pinky switches to the second one on hold:
 
