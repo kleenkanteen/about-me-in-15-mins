@@ -43,13 +43,13 @@ And how does this relate to software? One of software's purposes is to make thin
 
 I would go into my thoughts on software but that wouldn't be as comprehensive as my __philosophy__. I think a good developer is more than just a coding machine, but a __thinker__. There's a lot of room for creativity software development is an art. I think the values I have guide me to not just be a good __coding machine__, but a good __software developer__. I have a lot to learn regarding the art but it's been really interesting seeing how important philosophies are when programming. This was one thing I mentioned in my post in that group project software course. I'll end on this interesting quote I have saved:
 
->What makes a winning team, "Many U.S. sports fans agree that the greatest victory in this country’s history was when a group of unknown college kids, 
->led by head coach Herb Brooks, stunned the Soviets 4-3 in the 1980 Winter Olympics and went on to win the gold medal in ice hockey.
->When asked how he assembled the team, as well as his University of Minnesota hockey teams (Brooks had taken Minnesota from a perpetual doormat to 
->winning three Division 1 National Championships in 7 years), Brooks responded, “The key to my recruiting was that I looked for people first, athletes second. 
->I wanted people with sound value systems because you cannot buy values. You are only as good as your values. I learned early on that 
->you do not put greatness into people…but somehow try to pull it out.” - https://www.collaborativefund.com/blog/the-locker-room
+What makes a winning team, "Many U.S. sports fans agree that the greatest victory in this country’s history was when a group of unknown college kids, 
+led by head coach Herb Brooks, stunned the Soviets 4-3 in the 1980 Winter Olympics and went on to win the gold medal in ice hockey.
+When asked how he assembled the team, as well as his University of Minnesota hockey teams (Brooks had taken Minnesota from a perpetual doormat to 
+winning three Division 1 National Championships in 7 years), Brooks responded, “The key to my recruiting was that I looked for people first, athletes second. 
+I wanted people with sound value systems because you cannot buy values. You are only as good as your values. I learned early on that 
+you do not put greatness into people…but somehow try to pull it out.” - https://www.collaborativefund.com/blog/the-locker-room
 
-So know you know a lot about me. Like, a lot. This was a massive dump of my personality and the tools I use but I hope you enjoyed and maybe check out my stuff and adopt them if you like it.
+So now you know a lot about me. Like, a lot. This was a massive dump of my personality, interests, and my tools, so I hope you enjoyed and maybe check out my stuff and adopt them as well.
 
 
