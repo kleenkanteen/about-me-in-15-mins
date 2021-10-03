@@ -25,7 +25,7 @@ And here is my custom split keyboard, my most used tool. Like for most of the da
 
 ![iris keyboard](https://user-images.githubusercontent.com/67878058/134283851-9a972128-a0be-46ce-b811-38752611d7e5.jpg)
 
-:ere is my keyboard layout, composed of 2 layers, the MOD1 key to the right of my right pinky switches to the second layer when held, like shift:
+Here is my keyboard layout, composed of 2 layers. The MOD1 key to the right of my right pinky switches to the second layer when held, like shift:
 
 ![iris layout](https://user-images.githubusercontent.com/67878058/134281550-5646a149-4423-410c-ae1a-52b61e58b5e0.png)
 
