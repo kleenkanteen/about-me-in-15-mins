@@ -49,7 +49,7 @@ Notice how I don't use QWERTY. Also notice how the symbols are optimized for pro
 
 It's odd to me that programmers use their keyboard for their jobs, for their whole lives, but according to my small sample space most haven't changed a thing about their keyboards. Even remapping the caps lock key to the backspace button reduces pinky movement significantly. Their most used tool is unoptimized.
 
-I have a 27" 4k display on a table mount, and the center is at eye level so I'm forced to sit with my back straight. Online you'll read advice saying the top should be at eye level but that allows you to bend your head down, it's illogical. My desk is mostly empty. I try to have as few things in my room as possible so it's as clean as my desktop wallpaper. 
+I have a 27" 4k display on a table mount, and the center is at eye level so I'm forced to sit with my back straight. Online you'll read advice saying the top should be at eye level but that allows you to bend your head down, it's illogical. My table is mostly empty. I try to have as few things in my room as possible so it's as clean as my desktop wallpaper. 
 
 What do these things tell about me? I would say I'm a big fan of __innovation__ and __optimization__. And how does this relate to software? One of software's purposes is to make things easier. Many open source programs were made to improve upon something, like the powertoys run program above. 
 
