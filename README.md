@@ -65,4 +65,4 @@ winning three Division 1 National Championships in 7 years), Brooks responded, �
 I wanted people with sound value systems because you cannot buy values. You are only as good as your values. I learned early on that 
 you do not put greatness into people…but somehow try to pull it out.” - https://www.collaborativefund.com/blog/the-locker-room
 
-So now you know a lot about me. Like, a lot. Finding out these things in another way would be very difficult, so I decided to say the most interesting things. This was a massive dump of my personality, interests, and tools, so I hope you enjoyed them maybe even adopt them as well. If you plan on programming for a living that keyboard will definitely make life better. Adios.
+So now you know a lot about me. Like, a lot. Finding out these things by asking questions would be very difficult because you probably wouldn't ask these questions, I shared the most interesting things I can think of. This was a massive dump of my personality, interests, and tools, so I hope you enjoyed them maybe even adopt them as well. If you plan on programming for a living that keyboard will definitely make life better. Adios.
