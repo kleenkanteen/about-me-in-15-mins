@@ -45,7 +45,7 @@ Here is my keyboard layout, composed of 2 layers. The MOD1 key to the right of m
 
 ![iris layout](https://user-images.githubusercontent.com/67878058/134281550-5646a149-4423-410c-ae1a-52b61e58b5e0.png)
 
-Notice how I don't use QWERTY. Also notice how the symbols are optimized for programming. Navigating the arrow keys with just my left thumb is a godsend. There's so much to opimize which most people don't care about. I downloaded a python script that stored the keys I pressed and stored it in a SQL lite file. I then used SQL lite studio to see the key frequencies. This measured my real world key usage over a few days, 186k key counts, so now I could compare QWERTY and Colemak DH head with my own data. This is only 10% programming. Notice the most common keys are right on my home row keys at rest and how arbitrary QWERTY is.
+Notice how I don't use QWERTY. Also notice how the symbols are optimized for programming. Navigating the arrow keys with just my left thumb is a godsend. There's so much to opimize which most people don't care about. I downloaded a python script that stored the keys I pressed and stored it in a SQL lite file. I then used SQL lite studio to see the key frequencies. This measured my real world key usage over a few days, 186k key counts, so now I could compare QWERTY and Colemak DH head with my own data. This is about 20% programming. Notice the most common keys are right on my home row keys at rest and how arbitrary QWERTY is.
 
 ![qwerty vs  colemak](https://user-images.githubusercontent.com/67878058/138557395-f203aa18-7f32-4e52-ada2-ea0404ce196d.png)
 
