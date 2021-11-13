@@ -65,7 +65,7 @@ I would go into my thoughts on software but that wouldn't be as comprehensive as
 
 If you asked me about one software opinion I have, it's that strongly typed static languages are better than weakly typed dynamic languages because of less bugs as then they are caught during static analysis, as well as the better readability. A study actually confirmed less bugs, about 10% less bugs. So typescript > javascript. Also flutter looks very nice for making android/ios apps and I want to make a ridesharing app idea I had. The langauge behind it, Dart, is statically typed and flutter gets better performance than react native to so that's nice.
 
-I'll end on this interesting quote I have saved, reminds me of many open source initiatives:
+I'll end on this interesting quote I have saved, reminds me of some open source projects:
 
 What makes a winning team, "Many U.S. sports fans agree that the greatest victory in this country’s history was when a group of unknown college kids, 
 led by head coach Herb Brooks, stunned the Soviets 4-3 in the 1980 Winter Olympics and went on to win the gold medal in ice hockey.
