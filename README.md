@@ -47,6 +47,8 @@ Here is my keyboard layout, composed of 2 layers. The MOD1 key to the right of m
 
 ![iris layout](https://user-images.githubusercontent.com/67878058/134281550-5646a149-4423-410c-ae1a-52b61e58b5e0.png)
 
+The layout was made with this webapp: https://config.qmk.fm/#/keebio/iris/rev5/LAYOUT
+
 I measured my real world key usage over a few days so I could compare QWERTY and Colemak DH head with my own data. This is about 15% programming. Notice how arbitrary QWERTY is.
 
 ![qwerty vs  colemak](https://user-images.githubusercontent.com/67878058/138557395-f203aa18-7f32-4e52-ada2-ea0404ce196d.png)
