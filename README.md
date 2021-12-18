@@ -34,7 +34,7 @@ I replaced the start menu with a program called powertoys run which is much quic
 
 ![snip](https://user-images.githubusercontent.com/67878058/144095794-e3a370f9-87f8-4f9d-8ffb-84ac2d8963dd.JPG)
 
-And here is my desktop. Notice the clock is bettr, the taskbar slimmer and centered. This is the peak windows aesthetic::
+Here is my desktop. Notice the clock looks different + the taskbar slim and centered. This is the peak windows aesthetic:
 
 ![nov 2021 desktop](https://user-images.githubusercontent.com/67878058/141608565-927882d3-a9b7-499f-ae32-a96ba489fa19.JPG)
 
