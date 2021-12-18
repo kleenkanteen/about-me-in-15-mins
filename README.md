@@ -30,11 +30,11 @@ I'm a big fan of notion, I use it for my to do list, for my class notes, my inte
 
 I tinker a lot with my computer setup, both physical and software. I use windows 10 but after graduation will switch to mac OS due to the cleaner design and functionality. For example, spotlight search functionality from mac OS should be standard on windows. Instead windows has the start menu which has way too many items on it and the search bar is small, it's in the bottom left of the screen instead of the center. The windows 10 one is also a downgrade from windows 7, because it searches the internet sometimes, when there's chrome for that. Redundant feature which sometimes is annoying when you're searching for a file but it searches google. Also look at the way the time is displayed in the taskbar. It says AM/PM, which is redundant, of course someone knows if its AM or PM. Basic time sense. And it shows the year, 2021. Of course someone knows what year it is, come on. Knowing how to cut down something to it's essentials is a big part of my thinking. I'm __frugal__ and a __minimalist__. I think about what's needed and cut out the bloat, maximizing efficiency. It's a valuable belief, especially in this age of consumerism, as well as in software. I read from this one programmer, maintain high quality, even at the cost of features. Never sacrifice quality. And less is more.
 
-I replaced the start menu with a program called powertoys run which is much quicker and more accurate. I also improved how the clock looks. Here is the peak windows aesthetic:
+I replaced the start menu with a program called powertoys run which is much quicker and more accurate.
 
 ![snip](https://user-images.githubusercontent.com/67878058/144095794-e3a370f9-87f8-4f9d-8ffb-84ac2d8963dd.JPG)
 
-And here is my desktop:
+And here is my desktop. Notice the clock is bettr, the taskbar slimmer and centered. This is the peak windows aesthetic::
 
 ![nov 2021 desktop](https://user-images.githubusercontent.com/67878058/141608565-927882d3-a9b7-499f-ae32-a96ba489fa19.JPG)
 
@@ -52,7 +52,7 @@ Here is my keyboard layout, composed of 2 layers. The MOD1 key to the right of m
 
 The layout was made with this webapp: https://config.qmk.fm/#/keebio/iris/rev5/LAYOUT
 
-I also utilize or remap shortcuts to reduce finger movement. The most common one I use is switching between tabs. You know how moving between tabs is control + tab and control + shift + tab? I used powertoys keyboard manager to intercept me typing alt + t and alt + g to those shortcuts. Google chrome doesn't let you do it from the settings which sucks so this works with no problems. My t key is on my left index finger rest position and g is to the right of that. Looking at where alt + t is in my key layout and you will see how much better it is.
+I also utilize or remap shortcuts to reduce finger movement. The most common one I use is switching between tabs. You know how moving between tabs is control + tab and control + shift + tab? I used powertoys keyboard manager to intercept me typing alt + t and alt + g to those shortcuts. Google chrome doesn't let you do it from the settings which sucks but this works with no problems. My t key is on my left index finger rest position and g is to the right of that. Look at where alt + t is in my key layout and you will see how much better it is.
 
 I measured my real world key usage over a few days so I could compare QWERTY and Colemak DH. This is about 15% programming. Notice how arbitrary QWERTY is.
 
