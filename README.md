@@ -48,9 +48,9 @@ Notice the columns are parallel and the horizontal curve matches the natural cur
 
 ![iris layout](https://user-images.githubusercontent.com/67878058/134281550-5646a149-4423-410c-ae1a-52b61e58b5e0.png)
 
-Here is my keyboard layout, composed of 2 layers. The MOD1 key to the right of my right pinky switches to the second layer when held, like shift. This took a good bit of thought and improvement, I changed my layout like 15-20 times and this is the longest one I've held on to so far, 2+ months:
+Here is my keyboard layout, composed of 2 layers. Highly optimized for coding. Notice how on the bottom layer, the numbers are arranged on the right half and the symbols on the left. The MOD1 key to the right of my right pinky switches to the second layer when held, like shift. This took a good bit of thought and improvement, I changed my layout like 15-20 times and this is the longest one I've held on to so far, 2+ months:
 
-The layout was made with this webapp: https://config.qmk.fm/#/keebio/iris/rev5/LAYOUT
+The layout was made with this drag and drop webapp: https://config.qmk.fm/#/keebio/iris/rev5/LAYOUT
 
 I also utilize or remap shortcuts to reduce finger movement. The most common one I use is switching between tabs. You know how moving between tabs is control + tab and control + shift + tab? I used powertoys keyboard manager to intercept me typing alt + t and alt + g to those shortcuts. Google chrome doesn't let you do it from the settings which sucks but this works with no problems. My t key is on my left index finger rest position and g is to the right of that. Look at where alt + t is in my key layout and you will see how much better it is.
 
