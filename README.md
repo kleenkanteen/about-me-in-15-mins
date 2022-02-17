@@ -87,4 +87,4 @@ winning three Division 1 National Championships in 7 years), Brooks responded, �
 I wanted people with sound value systems because you cannot buy values. You are only as good as your values. I learned early on that 
 you do not put greatness into people…but somehow try to pull it out.”
 
-So now you know a crap ton about me. I tried to share the most interesting and relevant things I can think of about myself a person and relevant to software. This was a massive dump of my personality, interests, and tools, so I hope you enjoyed them and even adopt my tools. If you plan on programming for a living, that keyboard and key layout will make life better. Thanks for reading.
+So now you know a crap ton about me. I tried to share the most interesting and relevant things I can think of about myself a person and relevant to software. This was a massive dump of my personality, interests, and tools, so I hope you enjoyed them and even adopt my tools. If you plan on programming for a living, that keyboard and key layout will definitely make life better. Thanks for reading.
