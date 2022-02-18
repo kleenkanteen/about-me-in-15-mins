@@ -53,6 +53,8 @@ Analysis paralysis is also a problem, it's a skill to know just how much info yo
 
 I'm a big fan of notion, I use it for my daily planner + to do list, for my class notes + class links (easy to access all in one place), my internship resources and application tracker, basically everything to organize my life. But for notes, I use Obisidian and a bunch of markdown files to write down my thoughts. Maybe I shuold switch it all to notion. Though I have a lot of to-dos like "read this article" and boy has it has overfilled for the past few months. Too much to read, not enough time. 
 
+One reason I like writing, as in on a computer, is because I like recording what happens in life and recording interestng advice/websites/quotes I come across. I am a history fan so the writing part is preserving my history in a sense. There is also this Chinese proverb I like, “the faintest ink is more powerful than the strongest memory.” So many things you won't just remember like what you did on this day 6 months in the future. Take the burden of remembering off your brain and onto your notebook.
+
 ## My awesome pc setup
 
 I tinker a lot with my computer setup, both physical and software. 
