@@ -83,7 +83,9 @@ For most of the day my 2 hands rest on this magnificient tool:
 
 ![white keyboard](https://user-images.githubusercontent.com/67878058/167340141-da6299a2-272a-46af-81b9-3167e9b27f09.jpg)
 
-Notice the columns are parallel and the horizontal curve matches the natural curve of the fingers. You'll read stories of programmers getting wrist pain so I took this step to make writing, coding, and everything as ergonomic as possible. Prevention > cure. I topped out at 120 WPM for QWERTY when I took a typing test, but it's realistically not my real world typing speed, your brain doesn't think that fast. At first switching from QWERTY was painful as every since I was a wee child I was using it. 15 years of muscle memory had to be rewired, but it's interesting how I was able to without that much difficulty, I wonder how it varies by person. When I started a few days on the first day I did a typing test and started at 10 wpm. But I kept on going and a few weeks later was at 60 wpm, a good speed. Am now at 75 wpm. Realistically I think I am the same speed as qwerty. The split part of the keybaord is the best part. Try it yourself, spread out your arms straight out forward and ghost type. Then bring them closer like a normal keyboard. This should be enough to convice anyone of how much more comfortable a split keyboard is. It's a pleasure to type because of the parallel columns and maximized homerow usage. I can't put it in words, you gotta feel it to appreciate it.
+The trackball mouse lets my comfortably move my mouse with only my thumb. No hand movement needed.
+
+Notice the columns are parallel and the horizontal curve matches the natural curve of the fingers. You'll read stories of programmers getting nerve pain/damage so I took proactively did this to make typing ergonomic. Prevention > cure. I also switched to Colemak DH. I topped out at 120 WPM for QWERTY when I took a typing test, but it's realistically not my real world typing speed, your brain doesn't think that fast. At first switching from QWERTY was painful as every since I was a wee child I was using it so 15 years of muscle memory had to be rewired, but I was able to without that much difficulty, I wonder how it varies by person. When I started a few days on the first day I did a typing test and started at 10 wpm. But I kept on going and a few weeks later was at 60 wpm, a good speed. Am now at 75 wpm. Realistically I think I am the same speed as qwerty. The split part of the keybaord is the best part. Try it yourself, spread out your arms straight out forward and ghost type. Then bring them closer like a normal keyboard. This should be enough to convice anyone of how much more comfortable a split keyboard is. It's a pleasure to type because of the parallel columns and maximized homerow usage. I can't put it in words, you gotta feel it to appreciate it.
 
 ![iris layout](https://user-images.githubusercontent.com/67878058/134281550-5646a149-4423-410c-ae1a-52b61e58b5e0.png)
 
@@ -91,17 +93,21 @@ Here is my keyboard layout, composed of 2 layers. Highly optimized for coding. N
 
 The layout was made with this drag and drop webapp: https://config.qmk.fm/#/keebio/iris/rev5/LAYOUT
 
-I also utilize or remap shortcuts to reduce finger movement. The most common one I use is switching between tabs. You know how moving between tabs is control + tab and control + shift + tab? I used powertoys keyboard manager to intercept me typing alt + t and alt + g to those change tab shortcuts. Google chrome doesn't let you do it from settings which is odd but this works with no problems. My t key is on my left index finger rest position and g is to the right of that. Look at where alt + t is in my key layout and you will see how little I have to move my left pinky and index finger.
+Interesting graph of my speed increase when I switched to Colemak, from July to March:
+
+![colemak speed increase](https://user-images.githubusercontent.com/67878058/167340696-ecac8740-278b-4cd8-9568-c887a97a7efa.JPG)
+
+I remapped default shortcuts to reduce finger movement. The most common one I use is switching between tabs. I use my left index finger at rest to do this. You know how moving between tabs is control + tab and control + shift + tab? I used powertoys keyboard manager to intercept me typing alt + t and alt + g to those change tab shortcuts. My t key is on my left index finger rest position and g is to the right of that. It's the closest key position for the most common action as it should be.
 
 I measured my real world key usage over a few days so I could compare QWERTY and Colemak DH. This is about 15% programming. Notice how arbitrary QWERTY is.
 
 ![qwerty vs  colemak](https://user-images.githubusercontent.com/67878058/138557395-f203aa18-7f32-4e52-ada2-ea0404ce196d.png)
 
-It's odd to me that programmers use their keyboard for their jobs, for their whole lives, and non programmers as well, but those who I know, students and full time alike, haven't changed a thing about their keyboards. Even remapping the caps lock key to the backspace button reduces right pinky movement significantly. The most used tool is unoptimized.
+It's odd to me that programmers use their keyboard for their jobs, for their whole lives, and non programmers as well, but those who I know, students and full time alike, haven't changed a thing about their keyboards. Even remapping the caps lock key to the backspace button reduces right pinky movement significantly. Their most used tool is unoptimized.
 
 ## How to buy my keyboard - skip if not interested
 
-If you want this keyboard here is a guide. Skip this paragraph if don't. 
+If you want this keyboard here is a guide. Skip this paragraph if you don't. 
 
 The name is iris rev6, rev as in revision, open this link: https://keeb.io/collections/pre-built-keyboards/products/iris-keyboard-pre-built. You choose the parts and it gets pre built for you. But some parts are missing, so separately you get the keycaps, tenting screws to raise the front up, index key bump dots, and maybe a good looking usb-c to usb-a wire to connect the keyboard to your pc. Costs $300-$400 cad total but worth it as your keyboard is your most used tool: 
 - For switches I recommend the milky gatereon yellows, they are nice light linears, great for typing, 7305 hot swap sockets, white acrylic case, middle layer is frosted with tenting holes, or clear if not, for the left and right thumub area, 2 1u keys for both, and a 1.5m white usb c cable. If you want even better switches with 1.2mm distance instead of 2mm (gatereons) which is noticeable, and 40g vs. 50g, and can deal with a light work popping in the switches, I recommend excluding the switches in the order and buying the kailh speed silver switches separately from flashquark.com. Plus a switch puller so you can remove them if needed from the hotswap sockets. 
