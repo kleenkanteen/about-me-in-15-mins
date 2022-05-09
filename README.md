@@ -81,7 +81,7 @@ In July 2021 I built a custom split keyboard from 4 parts (pcb, case plates, swi
 
 For most of the day my 2 hands rest on this magnificient tool:
 
-![20211218_071702](https://user-images.githubusercontent.com/67878058/146656695-d95c74ec-4ba4-479b-98f2-79a73d7bfae9.jpg)
+![white keyboard](https://user-images.githubusercontent.com/67878058/167340141-da6299a2-272a-46af-81b9-3167e9b27f09.jpg)
 
 Notice the columns are parallel and the horizontal curve matches the natural curve of the fingers. You'll read stories of programmers getting wrist pain so I took this step to make writing, coding, and everything as ergonomic as possible. Prevention > cure. I topped out at 120 WPM for QWERTY when I took a typing test, but it's realistically not my real world typing speed, your brain doesn't think that fast. At first switching from QWERTY was painful as every since I was a wee child I was using it. 15 years of muscle memory had to be rewired, but it's interesting how I was able to without that much difficulty, I wonder how it varies by person. When I started a few days on the first day I did a typing test and started at 10 wpm. But I kept on going and a few weeks later was at 60 wpm, a good speed. Am now at 75 wpm. Realistically I think I am the same speed as qwerty. The split part of the keybaord is the best part. Try it yourself, spread out your arms straight out forward and ghost type. Then bring them closer like a normal keyboard. This should be enough to convice anyone of how much more comfortable a split keyboard is. It's a pleasure to type because of the parallel columns and maximized homerow usage. I can't put it in words, you gotta feel it to appreciate it.
 
